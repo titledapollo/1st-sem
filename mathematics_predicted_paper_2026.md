@@ -42,7 +42,7 @@ d) none of these
 ### iv) If 2 + 3i be a root of the equation x² - px + q = 0, then the value of p is
 a) 4  
 b) 3  
-**c) 2**  
+``c) 2``  
 d) none of these
 
 **Correction: p should be 4**
