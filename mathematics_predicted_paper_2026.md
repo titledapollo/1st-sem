@@ -27,7 +27,7 @@ d) 4
 
 ### ii) If log₃ 3 = x, then log₃ 27 =
 a) x²  
-**b) x**  
+**b) 3x**  
 c) 2x  
 d) none of these
 
