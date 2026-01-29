@@ -49,7 +49,8 @@ d) none of these
 ### v) If z = -3i, then amp(z) =
 a) π/2  
 b) π  
-**c) -π/2**  
+``c) -π/2`` 
+[solve](https://chatgpt.com/s/t_697b272032d881919312c03a9b0835c9)
 d) 0
 
 ### vi) If i = √-1, then i²⁰²⁴ + i²⁰²⁵ + i²⁰²⁶ + i²⁰²⁷ =
