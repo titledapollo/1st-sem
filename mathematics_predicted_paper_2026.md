@@ -30,12 +30,14 @@ a) x²
 **b) 3x**  
 c) 2x  
 d) none of these
+[**text**](https://chatgpt.com/s/t_697b1e1ae56c81919c5d1e24c808977b)
 
 ### iii) If the roots of the equation ax² - bx + c = 0 are reciprocal to each other, then
 a) a = b  
-**b) b = c**  
-c) c = a  
+b) b = c  
+**c) c = a**  
 d) none of these
+[text](https://chatgpt.com/s/t_697b202c2a3c8191ac75d32d999d8502)
 
 ### iv) If 2 + 3i be a root of the equation x² - px + q = 0, then the value of p is
 a) 4  
