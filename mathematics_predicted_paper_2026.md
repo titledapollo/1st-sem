@@ -40,12 +40,11 @@ d) none of these
 [solve](https://chatgpt.com/s/t_697b202c2a3c8191ac75d32d999d8502)
 
 ### iv) If 2 + 3i be a root of the equation x² - px + q = 0, then the value of p is
-a) 4  
+**a) 4**  
 b) 3  
-``c) 2``  
+c) 2  
 d) none of these
-
-**Correction: p should be 4**
+[solve](https://chatgpt.com/s/t_697b250da83881918651b71b5ea892af)
 
 ### v) If z = -3i, then amp(z) =
 a) π/2  
