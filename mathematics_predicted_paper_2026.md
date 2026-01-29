@@ -27,7 +27,7 @@ d) 4
 
 ### ii) If log₃ 3 = x, then log₃ 27 =
 a) x²  
-**b) 3x**  
+``b) 3x``  
 c) 2x  
 d) none of these
 [**solve**](https://chatgpt.com/s/t_697b1e1ae56c81919c5d1e24c808977b)
@@ -35,12 +35,12 @@ d) none of these
 ### iii) If the roots of the equation ax² - bx + c = 0 are reciprocal to each other, then
 a) a = b  
 b) b = c  
-**c) c = a**  
+``c) c = a``  
 d) none of these
 [solve](https://chatgpt.com/s/t_697b202c2a3c8191ac75d32d999d8502)
 
 ### iv) If 2 + 3i be a root of the equation x² - px + q = 0, then the value of p is
-**a) 4**  
+``a) 4``  
 b) 3  
 c) 2  
 d) none of these
