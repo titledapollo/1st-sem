@@ -56,13 +56,15 @@ d) 0
 a) -i  
 b) i  
 c) -1  
-**d) 0**
+``d) 0``
+[solve](https://chatgpt.com/s/t_697b2bf7b6e881919773e768f204ebe6)
 
 ### vii) The fifth term in the expansion of (1 + x)⁵ is
 a) 5x⁴  
-**b) 5x⁴**  
+``b) 5x⁴``  
 c) 10x⁴  
 d) none of these
+[solve](https://chatgpt.com/s/t_697b2dbd9260819188276fbc653f85d0)
 
 ### viii) The middle term of the expansion of (x² + 1/x²)⁸ is
 a) 70  
